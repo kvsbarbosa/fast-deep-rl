@@ -1,0 +1,1 @@
+# Esse repositório possui as respostas dos exercícios do curso [Fast Deep Reinforcement Learning](https://courses.dibya.online/p/fastdeeprl).
